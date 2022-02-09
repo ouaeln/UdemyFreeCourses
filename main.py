@@ -15,5 +15,5 @@ while True:
             else:
                 print('Already Exists In DB!')
     except:
-        print('Trying again')
+        print('Trying again 1')
         continue
