@@ -1,5 +1,6 @@
 from Functions import GetMessages, GetCourse, word_in_file
 import csv
+import time
 
 while True:
     try:
